@@ -7,7 +7,7 @@ const AboutUs = () => {
         <div>
 
             <div className="about-style d-flex row">
-                <div className="about mt-4 p-4">
+                <div className="about p-4">
                     <div className=""><h2 className="text-white">About Us :</h2></div>
 
                 </div>

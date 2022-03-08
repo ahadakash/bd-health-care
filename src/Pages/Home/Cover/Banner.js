@@ -6,18 +6,18 @@ import image2 from '../../../images/logo3.jpg';
 
 const Banner = () => {
     return (
-        <div className="my-5">
+        <div className="">
             <Carousel>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
+                        className="d-block  banner1"
                         src={image1}
                         alt="First slide"
                     />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
+                        className="d-block banner2"
                         src={image2}
                         alt="Second slide"
                     />

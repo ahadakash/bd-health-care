@@ -1,11 +1,21 @@
 /* banner css style */
 
-.slider-1{
-    color: black;
+.slider-1 {
+  color: black;
 }
-.slider-2{
-    color:#004861;
+.slider-2 {
+  color: #004861;
 }
-.slider-3{
-    color:#004861;
+.slider-3 {
+  color: #004861;
+}
+
+.banner1 {
+  height: 80vh;
+  width: 100%;
+}
+
+.banner2 {
+  height: 80vh;
+  width: 100%;
 }

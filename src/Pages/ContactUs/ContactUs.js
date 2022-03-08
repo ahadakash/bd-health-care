@@ -6,7 +6,7 @@ const ContactUs = () => {
 
         <div className='contact-us '>
 
-            <div className="contact mt-3 p-4">
+            <div className="contact p-4">
                 <div className=""><h2 className="text-white">Contact Us :</h2></div>
                 <div></div>
 
@@ -16,7 +16,7 @@ const ContactUs = () => {
                     you peace of mind</h1>
                 <button className="btn-margin btn btn-primary">Request A Callback</button>
             </div>
-            <div className="col-12 row margin mb-4">
+            <div className="col-12 row margin">
 
                 <h4 className="col-12"> Level-4, 34, Awal Centre, Banani, Dhaka <br />
                     Official: web@programming-hero.com <br />
